@@ -1,5 +1,9 @@
 # Llama-GT
 
+##You can test it here : 
+https://llama-gt-jnrogrpuiowy8dxfsahyfh.streamlit.app/
+
+##Or host it locally : 
 First go to : www.groq.com
 
 Create an account
@@ -19,3 +23,4 @@ This test uses streamlit, so install it,
 
 and run the file : 
 ```streamlit run llm.py```
+
