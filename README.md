@@ -1,9 +1,9 @@
 # Llama-GT
 
-##You can test it here : 
+## You can test it here : 
 https://llama-gt-jnrogrpuiowy8dxfsahyfh.streamlit.app/
 
-##Or host it locally : 
+## Or host it locally : 
 First go to : www.groq.com
 
 Create an account
