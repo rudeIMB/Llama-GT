@@ -1,26 +1,10 @@
-# Llama-GT
+# Llama-GT-RAG
 
-## You can test it here : 
-https://llama-gt-jnrogrpuiowy8dxfsahyfh.streamlit.app/
+First install the requirements.txt 
 
-## Or host it locally : 
-First go to : www.groq.com
+```pip install -r requirements.txt```
 
-Create an account
+Please note you need python version to be higher than 3.8 
 
-Then go to : https://console.groq.com/playground
-
-Then go to api keys and create an api
-
-Open Vscode, and open a terminal:
-
-```pip install groq```
-
-then : 
-```$env:GROQ_API_KEY=<Your_API_KEY>```
-
-This test uses streamlit, so install it,
-
-and run the file : 
-```streamlit run llm.py```
-
+### Important note : 
+Put the pdf file in a folder named data, or change the code to call the pdf directly by its name in loar_or_parse_data function
